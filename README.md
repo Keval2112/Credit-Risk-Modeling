@@ -78,7 +78,7 @@ The Streamlit app allows users to:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/credit-risk-modeling.git
+git clone https://github.com/Keval2112/credit-risk-modeling.git
 cd credit-risk-modeling
 
 # Install dependencies
